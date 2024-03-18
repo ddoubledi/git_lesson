@@ -36,3 +36,8 @@ git commit -am "Commit message"
 ```shell
 git log
 ```
+
+# git remote
+```shell
+git remote add origin git@github.com:ddoubledi/git_lesson.git
+```
