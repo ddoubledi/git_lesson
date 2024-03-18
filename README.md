@@ -41,3 +41,7 @@ git log
 ```shell
 git remote add origin git@github.com:ddoubledi/git_lesson.git
 ```
+
+```shell
+git branch -l
+```
