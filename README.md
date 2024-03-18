@@ -42,7 +42,17 @@ git log
 git remote add origin git@github.com:ddoubledi/git_lesson.git
 ```
 
+# git push
+```shell
+git push origin main
+```
+
 # Створення нової гілки
 ```shell
 git checkout -b "new_branch"
+```
+
+# Завантажити зміни з гіта(pull)
+```shell
+git pull origin main
 ```
