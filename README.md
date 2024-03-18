@@ -36,4 +36,3 @@ git commit -am "Commit message"
 ```shell
 git log
 ```
-
