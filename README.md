@@ -31,3 +31,9 @@ git commit -m "Commit message"
 ```sh
 git commit -am "Commit message"
 ```
+
+# git log
+```shell
+git log
+```
+
