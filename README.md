@@ -56,3 +56,15 @@ git checkout -b "new_branch"
 ```shell
 git pull origin main
 ```
+
+
+# Сквош двох комітів в один
+```shell
+git rebase -i HEAD~2
+```
+
+
+# Hard push 
+```shell
+git push origin squash_example -f
+```
