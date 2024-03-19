@@ -62,3 +62,9 @@ git pull origin main
 ```shell
 git rebase -i HEAD~2
 ```
+
+
+# Hard push 
+```shell
+git push origin squash_example -f
+```
